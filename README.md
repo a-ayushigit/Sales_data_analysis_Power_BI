@@ -1,4 +1,4 @@
-# Sales_data_analysis_Power_BI
+
 
 # Problem statement - 
 A hardware company wants to gather insights about its sales in different stores and regions across India , and wants the revenue distribution , profit margin distribution and distribution of sales across different stores .
